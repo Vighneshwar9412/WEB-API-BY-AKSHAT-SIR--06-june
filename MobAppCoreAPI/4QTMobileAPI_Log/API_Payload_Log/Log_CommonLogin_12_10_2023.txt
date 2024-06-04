@@ -1,0 +1,36 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 12 Oct 2023 03:33:15 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"360group","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 12 Oct 2023 03:40:23 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"360group","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 12 Oct 2023 03:42:03 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"360group","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 12 Oct 2023 03:48:52 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"360group","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

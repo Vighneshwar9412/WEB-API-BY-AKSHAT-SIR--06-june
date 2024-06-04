@@ -1,0 +1,8 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2023 05:44:35 PM
+
+Message from Client - 
+
+MESSAGE:- Source:- Data Source=;Initial Catalog=;User ID=;password=;Persist Security Info=True
+
+------------------------------------------MESSAGE END ------------------------------------------

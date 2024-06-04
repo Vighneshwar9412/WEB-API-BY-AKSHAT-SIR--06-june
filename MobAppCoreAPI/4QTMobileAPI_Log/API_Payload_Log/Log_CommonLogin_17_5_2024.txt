@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 17 May 2024 11:22:54 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"BDNPD2028Q","password":"BDNPD2028Q","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 17 May 2024 11:23:42 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 17 May 2024 12:10:35 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"5sJnYYoUO9U4Y6WYfwB3rIxKAfBUlTaclWoWBZn2JC0=","username":"9704832830","password":"santhu83*","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

@@ -1,0 +1,16 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 May 2023 11:35:35 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"enquiryId":1000,"enquiryTypeId":2,"subResponseId":4,"cId":5,"nextFollowupDate":"2023-07-20","siteVisitDurationInMin":30,"siteVisitDate":"2023-05-25","siteVisitAddress":"Noida","timeFrameId":1,"stageProjectId":1,"channelId":2,"remarks":"test","meetingPlace":"Delhi"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 May 2023 11:36:34 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"enquiryId":1002,"enquiryTypeId":5,"subResponseId":4,"cId":5,"nextFollowupDate":"2023-07-20","siteVisitDurationInMin":30,"siteVisitDate":"2023-05-25","siteVisitAddress":"Noida","timeFrameId":1,"stageProjectId":1,"channelId":2,"remarks":"test","meetingPlace":"Delhi"}
+
+------------------------------------------MESSAGE END ------------------------------------------

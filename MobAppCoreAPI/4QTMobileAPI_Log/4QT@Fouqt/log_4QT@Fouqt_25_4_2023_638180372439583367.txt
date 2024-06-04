@@ -1,0 +1,20 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- Customer InsertqueryHistory( Token=4QT@Fouqt,Queryid=0,Text=string,Createdby=0,Mailstatus=string,Regid=0)
+############################################
+
+Time: - 25 Apr 2023 04:34:03 PM
+
+Exception occurred from Client - 
+
+Exception - System.FormatException: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at FourQT.CommonFunctions.Portal.Common.UploadImage(String base64String, String FilePath) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 667
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getudp_InsertqueryHistory(InsertqueryHistory ObjInsertqueryHistory, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 199
+StackTrace -    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at FourQT.CommonFunctions.Portal.Common.UploadImage(String base64String, String FilePath) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 667
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getudp_InsertqueryHistory(InsertqueryHistory ObjInsertqueryHistory, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 199
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

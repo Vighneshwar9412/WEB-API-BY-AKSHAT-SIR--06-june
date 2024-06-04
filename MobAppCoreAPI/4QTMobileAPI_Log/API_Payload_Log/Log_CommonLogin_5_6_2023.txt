@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jun 2023 06:20:25 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

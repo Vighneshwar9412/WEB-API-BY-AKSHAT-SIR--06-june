@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jan 2024 11:47:52 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"queryid":14,"text":"test abc","createdby":3,"mailstatus":"","regid":3,"RootDomain":"","FileName":"","FileContent":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

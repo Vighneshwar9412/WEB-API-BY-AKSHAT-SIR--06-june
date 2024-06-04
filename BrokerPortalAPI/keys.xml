@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connections>
+	<connection dkey="4QT@M">
+		<Company>4th Quarter Technologies</Company>
+		<Logo>http://mob.4erealty.com/images/4qt-logo.png</Logo>
+		<connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Demo;UID=FourqtAPI;PWD=f1101@#GOLFNOIDA</connectionString>
+		<Responses></Responses>
+		<Validity>7</Validity>
+		<Description></Description>
+	</connection>
+
+	<connection dkey="4QT@J">
+		<Company>Test Company</Company>
+		<Logo>http://mob.4erealty.com/images/4qt-logo.png</Logo>
+		<connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Demo;UID=FourqtLead;PWD=B614@#Sector62</connectionString>
+		<Responses></Responses>
+		<Validity>7</Validity>
+		<Description></Description>
+	</connection>
+
+	<connection dkey="test2">
+		<Company>Test Company</Company>
+		<Logo>http://mob.4erealty.com/images/4qt-logo.png</Logo>
+		<connectionString>DATA SOURCE=test2;DATABASE=Br_Demo;UID=FourqtAPI;PWD=f1101@#GOLFNOIDA</connectionString>
+		<Responses></Responses>
+		<Validity>7</Validity>
+		<Description></Description>
+	</connection>
+
+	<connection dkey="4QT@B">
+		<Company>Test Company</Company>
+		<Logo>http://mob.4erealty.com/images/4qt-logo.png</Logo>
+		<connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+		<Responses></Responses>
+		<Validity>7</Validity>
+		<Description></Description>
+	</connection>
+</connections>

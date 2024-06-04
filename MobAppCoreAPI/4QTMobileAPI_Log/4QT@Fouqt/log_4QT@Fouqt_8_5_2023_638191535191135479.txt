@@ -1,0 +1,20 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.CheckTokenCustomerLogin(Token=4QT@Fouqt)
+############################################
+
+Time: - 08 May 2023 02:38:39 PM
+
+Exception occurred from Client - 
+
+InnerException - System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+Exception - System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+ ---> System.ComponentModel.Win32Exception (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at FourQT.DAL.Portal.DAL.CheckToken(String Token, String Type) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 33
+   at FourQT.CommonFunctions.Portal.Common.CheckTokenCustomerLogin(String Token, String DBName) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 121
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:10060,State:0,Class:20
+StackTrace -    at FourQT.DAL.Portal.DAL.CheckToken(String Token, String Type) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 33
+   at FourQT.CommonFunctions.Portal.Common.CheckTokenCustomerLogin(String Token, String DBName) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 121
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

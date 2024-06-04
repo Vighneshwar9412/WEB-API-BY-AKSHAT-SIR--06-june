@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common. GetContactUS(Token=4QT@EON)
+############################################
+
+Time: - 26 Dec 2023 03:58:45 PM
+
+Exception occurred from Client - 
+
+Exception - System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'API_GetContactUsInfo'.
+   at FourQT.DAL.Portal.DAL.GetContactUS(String ConnString, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 1160
+   at FourQT.CommonFunctions.Portal.Common.GetContactUS(String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1246
+ClientConnectionId:d84afd52-7eb2-4b49-8c53-4829b1630ec6
+Error Number:2812,State:62,Class:16
+StackTrace -    at FourQT.DAL.Portal.DAL.GetContactUS(String ConnString, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 1160
+   at FourQT.CommonFunctions.Portal.Common.GetContactUS(String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1246
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

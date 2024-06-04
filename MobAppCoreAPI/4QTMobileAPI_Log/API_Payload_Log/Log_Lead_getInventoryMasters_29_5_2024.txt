@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2024 10:56:55 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":0,"towerId":0,"floorId":null,"unitTypeGroupId":null,"unitTypeId":null,"locationId":null,"ownerId":null,"type":null,"brokerId":0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2024 11:27:38 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":null,"unitTypeGroupId":null,"unitTypeId":null,"locationId":null,"ownerId":null,"type":null,"brokerId":0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

@@ -1,0 +1,108 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:22:00 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":80,"unitTypeId":24}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:22:34 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":80,"unitTypeId":24}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:24:26 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":80,"unitTypeId":24}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:26:08 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":80,"unitTypeId":24}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:38:36 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":80,"unitTypeId":24}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:39:02 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":80,"unitTypeId":24}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:48:07 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":80,"unitTypeId":24}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:54:00 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":"80","unitTypeId":"24"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:54:11 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":"80,81","unitTypeId":"24,25"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 05:56:32 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":"80,81","unitTypeId":"24,25"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 06:10:28 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":"80","unitTypeId":"24"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 06:10:38 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"enquiryId":51664,"channelId":13,"cityId":1096,"enqFrom":1,"budgetMin":84,"budgetMax":6,"saleableAreaMin":1000,"saleableAreaMax":10000,"projectId":"80,81","unitTypeId":"24,25"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

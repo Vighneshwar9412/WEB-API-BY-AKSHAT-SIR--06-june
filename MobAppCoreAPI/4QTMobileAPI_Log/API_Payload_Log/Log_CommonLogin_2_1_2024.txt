@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 02 Jan 2024 11:31:52 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"aaapg7071p","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

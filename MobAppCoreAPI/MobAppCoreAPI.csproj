@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>98ed5930-668c-436d-ae2d-13562c29ab7a</UserSecretsId>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>False</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.13" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FourQT.CommonFunctions\FourQT.CommonFunctions.csproj" />
+    <ProjectReference Include="..\FourQT.Core\FourQT.Core.csproj" />
+    <ProjectReference Include="..\FourQT.Entities\FourQT.Entities.csproj" />
+    <ProjectReference Include="..\FourQT.Masters\FourQT.Masters.csproj" />
+    <ProjectReference Include="..\FourQT.Miscellaneous\FourQT.Miscellaneous.csproj" />
+    <ProjectReference Include="..\FourQT.Notifications\FourQT.Notifications.csproj" />
+    <ProjectReference Include="..\FourQT.Reports\FourQT.Reports.csproj" />
+    <ProjectReference Include="..\FourQT.SignalR\FourQT.SignalR.csproj" />
+    <ProjectReference Include="..\FourQT.UserRights\FourQT.UserRights.csproj" />
+    <ProjectReference Include="..\FourQT.Utilities\FourQT.Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\Inventory\" />
+    <Folder Include="images\Logo\Demo\" />
+    <Folder Include="images\Logo\RA\" />
+    <Folder Include="Logs\" />
+  </ItemGroup>
+
+</Project>

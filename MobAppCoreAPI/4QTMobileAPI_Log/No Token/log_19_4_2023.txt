@@ -1,0 +1,54 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:-  Customer GetPortal_HomePages( Token=,CustomerId=1)
+############################################
+
+Time: - 19 Apr 2023 04:06:59 PM
+
+Exception occurred from Client - 
+
+Exception - System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerLogin objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+StackTrace -    at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerLogin objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:-  Customer GetPortal_HomePages( Token=,CustomerId=1)
+############################################
+
+Time: - 19 Apr 2023 04:08:33 PM
+
+Exception occurred from Client - 
+
+Exception - System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerLogin objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+StackTrace -    at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerLogin objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:-  Customer GetPortal_HomePages( Token=,CustomerId=1)
+############################################
+
+Time: - 19 Apr 2023 04:14:26 PM
+
+Exception occurred from Client - 
+
+Exception - System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerLogin objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+StackTrace -    at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerLogin objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

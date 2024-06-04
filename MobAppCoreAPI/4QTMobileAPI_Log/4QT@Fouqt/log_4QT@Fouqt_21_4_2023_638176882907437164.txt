@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetJWTokenPortal(Token=4QT@Fouqt,  CustomerId=1)
+############################################
+
+Time: - 21 Apr 2023 03:38:10 PM
+
+Exception occurred from Client - 
+
+Exception - System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'API_JWTToken_IUDS' expects parameter '@Token', which was not supplied.
+   at FourQT.DAL.Portal.DAL.GetJWTTokenPortal(String ConnString, String customerId, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 751
+   at FourQT.CommonFunctions.Portal.Common.GetJWTokenPortal(String Token, Int32 customerId) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 778
+ClientConnectionId:eb97f669-8d38-4c07-bfec-45e0b86bfaa0
+Error Number:201,State:4,Class:16
+StackTrace -    at FourQT.DAL.Portal.DAL.GetJWTTokenPortal(String ConnString, String customerId, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 751
+   at FourQT.CommonFunctions.Portal.Common.GetJWTokenPortal(String Token, Int32 customerId) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 778
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

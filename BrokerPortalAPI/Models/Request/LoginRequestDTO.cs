@@ -1,0 +1,4 @@
+﻿namespace BrokerPortalAPI.Models.Request
+{
+    
+}

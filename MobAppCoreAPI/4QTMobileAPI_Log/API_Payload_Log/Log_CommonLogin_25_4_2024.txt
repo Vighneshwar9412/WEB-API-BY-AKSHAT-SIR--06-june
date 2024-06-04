@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 Apr 2024 04:02:37 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"Abhishek","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

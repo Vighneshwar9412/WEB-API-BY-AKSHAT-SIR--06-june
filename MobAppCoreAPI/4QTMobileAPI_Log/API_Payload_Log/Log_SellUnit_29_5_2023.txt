@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 11:02:24 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"unitId":181,"customerName":"Test Customer 2","customerPhoto":"","customerMobile":"9988776655","amount":5000000.0,"chequeCopy":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

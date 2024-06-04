@@ -1,0 +1,16 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.DAL.DAL.CustomerLogin(ConnString=Data Source=192.168.147.60,14333;Initial Catalog=CP_EON;User ID=Fourqtcrm;password=B614@#$Sector62;Persist Security Info=True, LoginId=AAAPG7071P,Token=4QT@EON)
+############################################
+
+Time: - 07 Jul 2023 03:51:04 PM
+
+Exception occurred from Client - 
+
+Exception - System.Data.SqlClient.SqlException (0x80131904): Database 'Demo_CRM' cannot be opened because it is offline.
+   at FourQT.DAL.Portal.DAL.CustomerLogin(String ConnString, String Token, String username, String password, String DeviceId, Int32 FromDevice) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 113
+ClientConnectionId:2286ff82-8732-485a-9ee8-e97800404ef2
+Error Number:942,State:4,Class:14
+StackTrace -    at FourQT.DAL.Portal.DAL.CustomerLogin(String ConnString, String Token, String username, String password, String DeviceId, Int32 FromDevice) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 113
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

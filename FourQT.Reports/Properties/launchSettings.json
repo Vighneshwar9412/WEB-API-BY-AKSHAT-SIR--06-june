@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FourQT.Reports": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:27968;http://localhost:27969"
+    }
+  }
+}

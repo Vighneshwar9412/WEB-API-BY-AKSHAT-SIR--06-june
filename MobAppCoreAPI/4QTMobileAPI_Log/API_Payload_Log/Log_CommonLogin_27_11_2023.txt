@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 27 Nov 2023 02:26:31 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

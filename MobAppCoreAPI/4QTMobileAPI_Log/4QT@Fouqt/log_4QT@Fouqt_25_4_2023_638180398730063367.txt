@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- Customer InsertqueryHistory( Token=4QT@Fouqt,Queryid=2,Text=test query,Createdby=2,Mailstatus=1,Regid=2)
+############################################
+
+Time: - 25 Apr 2023 05:18:07 PM
+
+Exception occurred from Client - 
+
+Exception - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPID:\4QT\4QTSoftware\MobAPI\MobAPP\Queries\4QT@Fouqt\'
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getudp_InsertqueryHistory(InsertqueryHistoryNew ObjInsertqueryHistory, HttpRequest request)
+StackTrace -    at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getudp_InsertqueryHistory(InsertqueryHistoryNew ObjInsertqueryHistory, HttpRequest request)
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 16 Feb 2024 11:21:08 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":"","ownerId":0,"type":"","unitNo":"","areaMin":0.0,"areaMax":0.0,"pageNo":0,"pageSize":0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

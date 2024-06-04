@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 14 Mar 2024 02:56:37 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"customerId":1,"projectId":0,"refFullName":"string","refContactNo":"string","refMailId":"string","refAddress":"string","refRelation":"string","location":"string","remarks":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 14 Mar 2024 02:57:34 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"customerId":1,"projectId":0,"refFullName":"string","refContactNo":"string","refMailId":"string","refAddress":"string","refRelation":"string","location":"string","remarks":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 14 Mar 2024 02:58:23 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"customerId":1,"projectId":0,"refFullName":"string","refContactNo":"string","refMailId":"string","refAddress":"string","refRelation":"string","location":"string","remarks":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 28 Jul 2023 12:06:13 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt","DeviceId":"","FromDevice":1,"Location":"","ipAddress":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 28 Jul 2023 12:37:53 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"AAAPG7071P","DeviceId":"","FromDevice":1,"Location":"","ipAddress":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

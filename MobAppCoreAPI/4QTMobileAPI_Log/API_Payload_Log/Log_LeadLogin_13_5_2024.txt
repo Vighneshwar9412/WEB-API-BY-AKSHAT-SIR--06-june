@@ -1,0 +1,54 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 03:23:29 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"userName":"administrator","password":"FM@2024","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 03:24:54 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"userName":"Administrator","password":"FM@2024","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 03:25:46 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"userName":"Administrator","password":"FM@2024","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 03:26:48 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"userName":"Administrator","password":"FM@2024","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 03:38:55 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"userName":"Administrator","password":"FM@2024","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 03:40:56 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"userName":"rajeev.gupta","password":"changed@@123","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

@@ -1,0 +1,20 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetCustomerDetails(Token=4QT@EON,  RegistrationId=221)
+############################################
+
+Time: - 07 Jul 2023 04:47:12 PM
+
+Exception occurred from Client - 
+
+Exception - System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerDetails(String Token, Int32 RegistrationId)
+StackTrace -    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerDetails(String Token, Int32 RegistrationId)
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

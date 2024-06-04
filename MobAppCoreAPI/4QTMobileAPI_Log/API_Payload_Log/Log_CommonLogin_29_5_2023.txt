@@ -1,0 +1,135 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 10:52:25 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":null,"Token":"XhnTVlranzYPjbHYJFQcPw==","username":"4qt.hyd","password":"4qt@@4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 10:53:02 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"4qt.hyd","password":"4qt@@4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 10:53:23 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"4qt.hyd","password":"4qt@@4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 10:53:38 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 02:12:05 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 02:12:49 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 02:19:09 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 02:40:19 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 02:40:27 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"4qt.hyd","password":"4qt@@4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 02:40:42 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 02:44:31 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"rajeev.gupta","password":"CHANGED@@123","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 03:04:23 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"rajeev.gupta","password":"CHANGED@@123","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 03:08:06 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"rajeev.gupta","password":"CHANGED@@123","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 03:08:13 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 29 May 2023 03:08:18 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

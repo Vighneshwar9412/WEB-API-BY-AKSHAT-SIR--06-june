@@ -1,0 +1,36 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 28 Jul 2023 12:10:14 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":2,"projectId":1,"refFullName":"Test Ref","refContactNo":"9876543211","refMailId":"test@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Noida","remarks":"Test 1"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 28 Jul 2023 12:12:20 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":2,"projectId":1,"refFullName":"Test Ref","refContactNo":"9876543211","refMailId":"test@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Noida","remarks":"Test 1"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 28 Jul 2023 12:12:31 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":2,"projectId":1,"refFullName":"Test Ref","refContactNo":"9876543219","refMailId":"test@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Noida","remarks":"Test 1"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 28 Jul 2023 12:39:05 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":1,"projectId":1,"refFullName":"Test Ref","refContactNo":"9876543210","refMailId":"test@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Noida","remarks":"test"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

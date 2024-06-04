@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 May 2024 04:22:48 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":null,"unitTypeGroupId":null,"unitTypeId":null,"locationId":null,"ownerId":null,"type":null,"unitNo":null,"areaMin":null,"areaMax":null,"pageNo":0,"pageSize":0,"bookingDateFrom":null,"bookingDateTo":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 May 2024 05:02:56 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":null,"unitTypeGroupId":null,"unitTypeId":null,"locationId":null,"ownerId":null,"type":null,"unitNo":null,"areaMin":null,"areaMax":null,"pageNo":0,"pageSize":0,"bookingDateFrom":null,"bookingDateTo":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 May 2024 05:07:25 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":null,"unitTypeGroupId":null,"unitTypeId":null,"locationId":null,"ownerId":null,"type":null,"unitNo":null,"areaMin":null,"areaMax":null,"pageNo":0,"pageSize":0,"bookingDateFrom":null,"bookingDateTo":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

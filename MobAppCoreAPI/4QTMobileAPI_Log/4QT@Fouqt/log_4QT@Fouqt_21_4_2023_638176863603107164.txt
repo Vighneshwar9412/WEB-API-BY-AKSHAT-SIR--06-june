@@ -1,0 +1,20 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.DAL.DAL.SetJWTTokenPortal(ConnString=Data Source=192.168.147.100,14367;Initial Catalog=Demo_CP;User ID=Fourqtcrm;password=B614@#$Sector62;Persist Security Info=True, CustomerId=1,Token=4QT@Fouqt)
+############################################
+
+Time: - 21 Apr 2023 03:06:00 PM
+
+Exception occurred from Client - 
+
+Exception - System.InvalidOperationException: ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(Boolean async, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at FourQT.DAL.Portal.DAL.SetJWTTokenPortal(String ConnString, String customerId, String JWTToken, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 712
+StackTrace -    at System.Data.SqlClient.SqlCommand.ValidateCommand(Boolean async, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at FourQT.DAL.Portal.DAL.SetJWTTokenPortal(String ConnString, String customerId, String JWTToken, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 712
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

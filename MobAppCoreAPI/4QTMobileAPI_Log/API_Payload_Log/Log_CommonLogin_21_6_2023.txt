@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Jun 2023 05:13:33 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Jun 2023 05:14:26 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

@@ -1,0 +1,54 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 Apr 2024 11:21:06 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"+B84cT2M0rJNy/iklSjlWA==","username":"AODPB2562B","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 Apr 2024 11:22:40 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"+B84cT2M0rJNy/iklSjlWA==","username":"AODPB2562B","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 Apr 2024 11:25:42 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"+B84cT2M0rJNy/iklSjlWA==","username":"AODPB2562B","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 Apr 2024 12:28:52 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"+B84cT2M0rJNy/iklSjlWA==","username":"AODPB2562B","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 Apr 2024 12:29:45 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"+B84cT2M0rJNy/iklSjlWA==","username":"AODPB2562B","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 Apr 2024 12:44:08 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"es+4Kqq5ynn4I1N9vEaoGGwRZREdHEmwqmVU2HTpvS4=","username":"BGOPH2444G","mobile":"8860076097"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

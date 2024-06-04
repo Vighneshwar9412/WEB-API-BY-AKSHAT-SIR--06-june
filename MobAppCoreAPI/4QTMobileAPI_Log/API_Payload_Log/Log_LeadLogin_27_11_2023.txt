@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 27 Nov 2023 03:04:32 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"userName":"akshat","password":"fourqt","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

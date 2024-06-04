@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 27 May 2023 04:23:30 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"unitId":95,"customerName":"Test Customer","customerPhoto":"","customerMobile":"9876543210","amount":1000000.0,"chequeCopy":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 27 May 2023 04:32:19 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"unitId":99,"customerName":"Test Customer","customerPhoto":"string","customerMobile":"9876543210","amount":1000000.0,"chequeCopy":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 27 May 2023 04:33:02 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"unitId":95,"customerName":"Test Customer","customerPhoto":"string","customerMobile":"9876543210","amount":1000000.0,"chequeCopy":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

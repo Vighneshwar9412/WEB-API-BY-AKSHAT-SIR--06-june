@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 26 Dec 2023 12:48:47 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AKLPT5539L","password":"AKLPT5539L","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 26 Dec 2023 03:58:25 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AKLPT5539L","password":"AKLPT5539L","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

@@ -1,0 +1,54 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jun 2024 02:35:55 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"subjectId":1,"to":"akshat@4qt.com","cc":"","bcc":"","body":"Test Email","subject":"Test","documentsList":[],"enquiryId":90870}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jun 2024 02:37:32 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"subjectId":1,"to":"akshat@4qt.com","cc":"","bcc":"","body":"Test Email","subject":"Test","documentsList":[],"enquiryId":90870}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jun 2024 03:09:57 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"subjectId":1,"to":"akshat@4qt.com","cc":"","bcc":"","body":"Test 2","subject":"Test 2","documentsList":[],"enquiryId":90870}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jun 2024 03:16:49 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"subjectId":1,"to":"akshat@4qt.com","cc":"","bcc":"","body":"Test F2","subject":"Test F2","documentsList":[],"enquiryId":90870}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jun 2024 03:17:27 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"subjectId":1,"to":"akshat@4qt.com","cc":"","bcc":"","body":"Test F2","subject":"Test F2","documentsList":[],"enquiryId":90870}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jun 2024 03:20:05 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"subjectId":1,"to":"akshat@4qt.com","cc":"","bcc":"","body":"Test F7","subject":"Test F7","documentsList":[],"enquiryId":90870}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

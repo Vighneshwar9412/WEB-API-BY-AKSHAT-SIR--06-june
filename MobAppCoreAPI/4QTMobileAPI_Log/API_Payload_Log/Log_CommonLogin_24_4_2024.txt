@@ -1,0 +1,81 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 11:10:19 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 11:16:04 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 11:30:24 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 11:33:05 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 12:04:25 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 12:09:54 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 12:35:37 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 12:38:31 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Apr 2024 12:50:32 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

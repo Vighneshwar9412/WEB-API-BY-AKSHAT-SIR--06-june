@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 11:21:51 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AMJPC5665J","password":"AMJPC5665J","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 13 May 2024 12:42:18 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AMJPC5665J","password":"AMJPC5665J","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

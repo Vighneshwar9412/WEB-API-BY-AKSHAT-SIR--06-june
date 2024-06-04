@@ -1,0 +1,16 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- User GetCustomerDetails( Token=4QT@EON,  CustomerId=221)
+############################################
+
+Time: - 07 Jul 2023 04:47:19 PM
+
+Exception occurred from Client - 
+
+Exception - System.MissingMethodException: Method not found: 'Void FourQT.Entities.CustomerDetail.set_RegistrationNo(System.String)'.
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerDetails(String Token, Int32 RegistrationId)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getCustomerDetails(CustomerCore2 objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 663
+StackTrace -    at FourQT.CommonFunctions.Portal.Common.GetCustomerDetails(String Token, Int32 RegistrationId)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getCustomerDetails(CustomerCore2 objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 663
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

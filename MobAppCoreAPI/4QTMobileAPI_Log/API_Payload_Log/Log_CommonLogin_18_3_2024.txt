@@ -1,0 +1,36 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 18 Mar 2024 03:51:22 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"yqkPgVn","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 18 Mar 2024 03:55:03 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"yqkPgVn","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 18 Mar 2024 03:59:22 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"yqkPgVn","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 18 Mar 2024 04:59:27 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"+B84cT2M0rJNy/iklSjlWA==","username":"BCQPM7601C","password":"BCQPM7601C","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

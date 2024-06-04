@@ -1,0 +1,16 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.DAL.DAL.InsertqueryHistory(ConnString=Data Source=192.168.147.100,14367;Initial Catalog=Demo_CP;User ID=Fourqtcrm;password=B614@#$Sector62;Persist Security Info=True,Token=4QT@Fouqt,Queryid=0,Text=string,Createdby=0,Mailstatus=string,Regid=0)
+############################################
+
+Time: - 25 Apr 2023 04:43:18 PM
+
+Exception occurred from Client - 
+
+Exception - System.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting the varchar value 'string' to data type bit.
+   at FourQT.DAL.Portal.DAL.InsertqueryHistory(String ConnString, InsertqueryHistory ObjInsertqueryHistory, String dKey) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 455
+ClientConnectionId:1d461fc6-b108-4fb9-81b1-e33d2765cf36
+Error Number:245,State:1,Class:16
+StackTrace -    at FourQT.DAL.Portal.DAL.InsertqueryHistory(String ConnString, InsertqueryHistory ObjInsertqueryHistory, String dKey) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 455
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

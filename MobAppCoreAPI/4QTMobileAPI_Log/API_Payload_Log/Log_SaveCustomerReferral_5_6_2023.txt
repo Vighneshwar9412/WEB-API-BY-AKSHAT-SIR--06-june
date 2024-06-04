@@ -1,0 +1,36 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jun 2023 04:38:27 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":2,"projectId":1,"refFullName":"Test","refContactNo":"9876543210","refMailId":"abc@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Delhi"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jun 2023 04:38:59 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":2,"projectId":1,"refFullName":"Test","refContactNo":"9876543211","refMailId":"abc@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Delhi"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jun 2023 04:42:18 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":2,"projectId":1,"refFullName":"Test","refContactNo":"9876543211","refMailId":"abc@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Delhi"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jun 2023 04:42:33 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"customerId":2,"projectId":1,"refFullName":"Test","refContactNo":"9876545551","refMailId":"abc@gmail.com","refAddress":"Noida","refRelation":"Work","location":"Delhi"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

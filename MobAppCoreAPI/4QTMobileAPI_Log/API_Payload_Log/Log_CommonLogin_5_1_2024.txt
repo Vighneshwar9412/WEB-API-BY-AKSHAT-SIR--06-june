@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jan 2024 03:37:59 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"360group","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jan 2024 04:13:52 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AGDPJ1632Q","password":"AGDPJ1632Q","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Jan 2024 04:14:02 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AGDPJ1632Q","password":"AGDPJ1632Q","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

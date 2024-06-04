@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:-  Customer GetPortal_HomePages( Token=,CustomerId=1)
+############################################
+
+Time: - 20 Apr 2023 02:34:30 PM
+
+Exception occurred from Client - 
+
+Exception - System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerCore1 objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+StackTrace -    at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getPortal_HomePages(CustomerCore1 objuser, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 25
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

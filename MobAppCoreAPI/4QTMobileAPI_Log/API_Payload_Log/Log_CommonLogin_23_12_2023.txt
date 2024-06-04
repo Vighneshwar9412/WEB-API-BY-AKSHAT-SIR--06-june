@@ -1,0 +1,36 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 23 Dec 2023 03:16:12 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 23 Dec 2023 03:24:37 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AKNPM1673L","password":"0B1L1W7O9Q","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 23 Dec 2023 03:24:48 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"0B1L1W7O9Q","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 23 Dec 2023 03:30:45 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"0B1L1W7O9Q","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

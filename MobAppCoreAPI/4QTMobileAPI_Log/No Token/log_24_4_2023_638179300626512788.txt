@@ -1,0 +1,16 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetRegisteredMobile(Token=,  LoginId=BHLPT0825R)
+############################################
+
+Time: - 24 Apr 2023 10:47:42 AM
+
+Exception occurred from Client - 
+
+Exception - System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at FourQT.DAL.Portal.DAL.GetRegisteredMobile(String ConnString, String Token, String username) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 211
+   at FourQT.CommonFunctions.Portal.Common.GetRegisteredMobile(String Token, String username) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 161
+StackTrace -    at FourQT.DAL.Portal.DAL.GetRegisteredMobile(String ConnString, String Token, String username) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 211
+   at FourQT.CommonFunctions.Portal.Common.GetRegisteredMobile(String Token, String username) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 161
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

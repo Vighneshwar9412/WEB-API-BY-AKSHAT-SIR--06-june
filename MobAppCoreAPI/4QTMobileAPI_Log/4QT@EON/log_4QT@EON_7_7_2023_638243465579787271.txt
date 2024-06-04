@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- Customer GetCustomerDuesPaid( Token=4QT@EON,  RegistrationId=221)
+############################################
+
+Time: - 07 Jul 2023 05:09:17 PM
+
+Exception occurred from Client - 
+
+Exception - System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getCustomerDuesPaid(CustomerCore2_2 ObjCustomer, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 1152
+StackTrace -    at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getCustomerDuesPaid(CustomerCore2_2 ObjCustomer, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 1152
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

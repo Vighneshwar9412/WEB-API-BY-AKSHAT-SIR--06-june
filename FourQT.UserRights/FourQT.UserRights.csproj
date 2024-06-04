@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="NPoco" Version="5.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FourQT.CommonFunctions\FourQT.CommonFunctions.csproj" />
+    <ProjectReference Include="..\FourQT.DAL\FourQT.DAL.csproj" />
+    <ProjectReference Include="..\FourQT.Entities\FourQT.Entities.csproj" />
+    <ProjectReference Include="..\FourQT.Miscellaneous\FourQT.Miscellaneous.csproj" />
+    <ProjectReference Include="..\FourQT.Utilities\FourQT.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

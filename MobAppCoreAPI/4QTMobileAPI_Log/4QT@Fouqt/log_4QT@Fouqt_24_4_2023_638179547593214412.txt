@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetExtraCharge(Token=4QT@Fouqt)
+############################################
+
+Time: - 24 Apr 2023 05:39:19 PM
+
+Exception occurred from Client - 
+
+Exception - System.ArgumentException: Column 'HeadType' does not belong to table Table1.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.GetExtraCharge(DataTable table, String Token) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 743
+StackTrace -    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.GetExtraCharge(DataTable table, String Token) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 743
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

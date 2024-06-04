@@ -1,0 +1,81 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 11:03:24 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"string","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 11:23:01 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 11:40:05 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 11:59:46 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:35:02 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:36:54 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:37:00 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"4QT@@fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:37:34 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:38:40 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

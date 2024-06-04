@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 14 Mar 2024 02:56:06 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"+B84cT2M0rJNy/iklSjlWA==","username":"ACJPD0862E","password":"drad@1965","DeviceId":"","FromDevice":0,"Location":"","ipAddress":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

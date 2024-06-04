@@ -1,0 +1,144 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 12:42:40 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"unitId":181,"type":"S"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 12:46:01 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"unitId":94,"type":"B"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 12:47:13 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"unitId":94,"type":"B"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 12:52:32 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"unitId":181,"type":"S"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 12:52:54 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"unitId":94,"type":"B"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:28:40 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":0,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"string","unitNo":"string","areaMin":0.0,"areaMax":0.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:28:51 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":0,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"ALL","unitNo":"string","areaMin":0.0,"areaMax":0.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:29:13 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":0,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"string","areaMin":0.0,"areaMax":0.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:29:19 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"string","areaMin":0.0,"areaMax":0.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:29:39 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"string","areaMin":0.0,"areaMax":100000.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:30:12 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"","areaMin":0.0,"areaMax":100000.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:30:37 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":0,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"","areaMin":0.0,"areaMax":100000.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:30:42 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"","areaMin":0.0,"areaMax":100000.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:32:26 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"B","unitNo":"","areaMin":0.0,"areaMax":100000.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:32:44 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"S","unitNo":"","areaMin":0.0,"areaMax":100000.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 30 May 2023 04:56:10 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"","areaMin":0.0,"areaMax":100000.0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

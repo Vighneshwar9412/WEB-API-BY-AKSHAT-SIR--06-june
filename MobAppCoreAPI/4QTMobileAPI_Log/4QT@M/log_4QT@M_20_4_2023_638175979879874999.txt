@@ -1,0 +1,16 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetCustomerLogin(Token=4QT@M,  LoginId=BHLPT0825R)
+############################################
+
+Time: - 20 Apr 2023 02:33:07 PM
+
+Exception occurred from Client - 
+
+Exception - System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at FourQT.DAL.Portal.DAL.CustomerLogin(String ConnString, String Token, String username, String password, String DeviceId, Int32 FromDevice) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 122
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerLogin(String Token, String username, String password, String DeviceId, Int32 FromDevice) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 90
+StackTrace -    at FourQT.DAL.Portal.DAL.CustomerLogin(String ConnString, String Token, String username, String password, String DeviceId, Int32 FromDevice) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 122
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerLogin(String Token, String username, String password, String DeviceId, Int32 FromDevice) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 90
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

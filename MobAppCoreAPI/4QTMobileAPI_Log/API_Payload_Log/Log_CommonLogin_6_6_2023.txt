@@ -1,0 +1,243 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 01:00:44 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 01:00:52 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==1","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 01:01:00 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver1","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 01:01:06 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":null,"password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 01:01:49 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 01:01:56 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 01:02:34 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 02:07:38 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Training1","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:21:59 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"abc","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:22:44 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"abc","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:26:27 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"abc","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:33:00 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"string","username":"Direct","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:33:05 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"","username":"Direct","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:33:14 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct1","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:33:26 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:58:12 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:58:37 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct1","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 03:58:44 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 04:00:23 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 04:18:38 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 04:28:12 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 04:29:54 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 04:33:42 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Direct","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 04:51:00 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 05:05:12 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 05:53:52 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Jun 2023 05:57:03 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","password":"fourqt","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

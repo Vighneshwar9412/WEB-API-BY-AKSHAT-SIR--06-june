@@ -1,0 +1,8 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 15 May 2023 04:01:45 PM
+
+Message from Client - 
+
+MESSAGE:- {"enquiryId":13736,"enquiryTypeId":1,"subResponseId":1,"cId":1,"nextFollowupDate":"string","siteVisitDurationInMin":0,"siteVisitDate":"string","siteVisitAddress":"string","timeFrameId":null,"stageProjectId":1,"channelId":1,"remarks":"string","meetingPlace":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------

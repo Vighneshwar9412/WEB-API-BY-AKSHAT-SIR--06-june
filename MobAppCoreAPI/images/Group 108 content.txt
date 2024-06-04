@@ -1,0 +1,35 @@
+#1A1B4B Blue  -  Primary Color
+#42C7EF SkyBlue - 
+#AC835E Dark Grey -  Ternary Color
+#0C865A Green -  Success -color
+#FF7600 Orange - Pending color
+#FF0000 Red -  Danger color
+#797979 Text Color
+#F4F4F4 Light Bg
+
+
+(NEW LEVELS OF EXCELLENCE)
+Heading font- family - Playfair Display
+font-size: 32px
+line-height: 42px;
+
+
+WE HOLD OURSELVES TO THE HIGHEST STANDARDS OF EXCELLENCE IN EVERY DEVELOPMENT WE UNDERTAKE.
+FONT-SIZE: 24PX;
+line-height:32px;
+
+
+---------------------
+
+Label, other text (font-family) - Nunito;
+
+
+
+
+
+
+
+
+
+
+

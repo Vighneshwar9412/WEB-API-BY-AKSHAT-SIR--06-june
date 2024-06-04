@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetCustomerDuesPaid(Token=4QT@Fouqt,  Registration_Id=2)
+############################################
+
+Time: - 08 May 2023 02:49:46 PM
+
+Exception occurred from Client - 
+
+Exception - System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Convert.ToDecimal(Object value)
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerDuesPaid(String Token, Int32 Registration_Id) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1478
+StackTrace -    at System.DBNull.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Convert.ToDecimal(Object value)
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerDuesPaid(String Token, Int32 Registration_Id) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1478
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

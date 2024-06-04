@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 03:04:56 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"userName":"rajeev.gupta","password":"changed@@123","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

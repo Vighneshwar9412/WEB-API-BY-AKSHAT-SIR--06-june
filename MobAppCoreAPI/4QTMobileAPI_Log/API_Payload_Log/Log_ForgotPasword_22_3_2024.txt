@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 22 Mar 2024 12:50:36 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"BDNPD2028Q","mobile":"7250154963"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 22 Mar 2024 12:55:23 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"BDNPD2028Q","mobile":"7250154963"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

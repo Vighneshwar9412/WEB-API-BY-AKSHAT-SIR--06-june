@@ -1,0 +1,126 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:23:32 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT12","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:37:39 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT12","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:38:27 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT12","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:41:56 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT12","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:42:43 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:43:25 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:43:43 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":"","ipAddress":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:43:59 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT1","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:44:10 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT12","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:44:20 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"T","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","password":"fourqt@@4QT12","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:44:47 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:44:57 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"Approver1","password":"4qt","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:45:20 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"rajeev.gupta","password":"CHANGED@@123","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 03 Jun 2023 02:45:27 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"rajeev.gupta","password":"CHANGED@@1231","DeviceId":"test id","FromDevice":1,"Location":null,"ipAddress":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

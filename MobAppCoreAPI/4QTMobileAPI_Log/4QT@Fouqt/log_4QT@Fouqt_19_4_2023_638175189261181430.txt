@@ -1,0 +1,16 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.DAL.DAL.ChangePassword(ConnString=Data Source=192.168.147.100,14367;Initial Catalog=Demo_CP;User ID=Fourqtcrm;password=B614@#$Sector62;Persist Security Info=True, LoginId=BHLPT0825R,Token=4QT@Fouqt)
+############################################
+
+Time: - 19 Apr 2023 04:35:26 PM
+
+Exception occurred from Client - 
+
+Exception - System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'Portal_udp_userchangepassword'.
+   at FourQT.DAL.Portal.DAL.ChangePassword(String ConnString, String Token, String username, String oldpassword, String newpassword) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 168
+ClientConnectionId:7a03d1e2-40b0-46f2-a3e3-22fcd7bdddbe
+Error Number:2812,State:62,Class:16
+StackTrace -    at FourQT.DAL.Portal.DAL.ChangePassword(String ConnString, String Token, String username, String oldpassword, String newpassword) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 168
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

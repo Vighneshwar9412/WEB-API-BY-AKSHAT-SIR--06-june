@@ -1,0 +1,63 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 10:34:37 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"fourqt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 10:46:33 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"BAFPM4188M","password":"RASHMI2808","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 10:48:11 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"BIRPR2319R","password":"BIRPR2319Ra","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 11:15:23 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"BIRPR2319R","password":"BIRPR2319Ra","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 12:38:21 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"es+4Kqq5ynn4I1N9vEaoGGwRZREdHEmwqmVU2HTpvS4=","username":"AAHPG5868P","password":"AAHPG5868P","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 12:49:38 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"BVMPK3302H","password":"BVMPK3302H","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Mar 2024 04:10:46 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"XhnTVlranzYPjbHYJFQcPw==","username":"ABCTY1234D","password":"ABCTY1234D","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

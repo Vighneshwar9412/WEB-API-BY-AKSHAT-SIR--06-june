@@ -1,0 +1,30 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- User ValidateKey( Token=4QT@M,  UserID=)
+############################################
+
+Time: - 16 May 2023 11:12:06 AM
+
+Exception occurred from Client - 
+
+Exception - System.Xml.XmlException: Unexpected XML declaration. The XML declaration must be the first node in the document, and no whitespace characters are allowed to appear before it. Line 1, position 4.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParsePI(StringBuilder piInDtdStringBuilder)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at MobAppCoreAPI.Repository.General.ValidateKeyRepository.validateKey(String mKey) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\General\ValidateKeyRepository.cs:line 20
+StackTrace -    at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParsePI(StringBuilder piInDtdStringBuilder)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at MobAppCoreAPI.Repository.General.ValidateKeyRepository.validateKey(String mKey) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\General\ValidateKeyRepository.cs:line 20
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

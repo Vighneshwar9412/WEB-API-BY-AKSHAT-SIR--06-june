@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- User CheckLogin( Token=,  UserID=string)
+############################################
+
+Time: - 11 Jul 2023 05:29:25 PM
+
+Exception occurred from Client - 
+
+Exception - System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at MobAppCoreAPI.Repository.General.CommonLoginRepository.getCommonLogin(CommonLoginRequest objuser, HttpContext context) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\General\CommonLoginRepository.cs:line 40
+StackTrace -    at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at MobAppCoreAPI.Repository.General.CommonLoginRepository.getCommonLogin(CommonLoginRequest objuser, HttpContext context) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\General\CommonLoginRepository.cs:line 40
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

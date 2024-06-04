@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 09 May 2024 12:30:10 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"5sJnYYoUO9U4Y6WYfwB3rIxKAfBUlTaclWoWBZn2JC0=","username":"Ganesh","password":"vasavi@321","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 09 May 2024 12:30:28 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"5sJnYYoUO9U4Y6WYfwB3rIxKAfBUlTaclWoWBZn2JC0=","username":"Ganesh","password":"vasavi@321","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Jan 2024 03:02:13 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":null,"unitTypeGroupId":null,"unitTypeId":null,"locationId":null,"ownerId":null,"type":null,"unitNo":null,"areaMin":null,"areaMax":null,"pageNo":0,"pageSize":0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 24 Jan 2024 03:02:33 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1,"towerId":0,"floorId":null,"unitTypeGroupId":null,"unitTypeId":null,"locationId":null,"ownerId":null,"type":null,"unitNo":null,"areaMin":null,"areaMax":null,"pageNo":0,"pageSize":0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

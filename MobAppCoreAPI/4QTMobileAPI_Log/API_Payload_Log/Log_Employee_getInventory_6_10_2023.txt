@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 06 Oct 2023 10:53:50 AM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1103,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"ALL","unitNo":"","areaMin":0.0,"areaMax":10000.0,"pageNo":1,"pageSize":50}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

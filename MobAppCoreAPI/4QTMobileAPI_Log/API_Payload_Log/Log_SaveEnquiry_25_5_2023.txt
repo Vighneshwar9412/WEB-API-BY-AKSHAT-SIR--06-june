@@ -1,0 +1,9 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 25 May 2023 11:54:32 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"sourceId":1,"enquiryType":"A","callDirection":"I","salutation":"Mr.","firstName":"Test","lastName":"1","isd":"91","mobileNo1":"9876543210","emailId1":"abc@gmail.com","channelId":1,"remarks":"test"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

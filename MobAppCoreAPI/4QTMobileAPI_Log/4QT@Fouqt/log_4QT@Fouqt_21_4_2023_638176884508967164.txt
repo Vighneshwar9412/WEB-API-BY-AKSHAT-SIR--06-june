@@ -1,0 +1,8 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 21 Apr 2023 03:40:50 PM
+
+Message from Client - 
+
+MESSAGE:- Source:- Data Source=192.168.147.100,14367;Initial Catalog=Demo_CP;User ID=Fourqtcrm;password=B614@#$Sector62;Persist Security Info=True
+
+------------------------------------------MESSAGE END ------------------------------------------

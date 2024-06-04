@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 20 Sep 2023 12:08:25 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"LoginType":"M","PageIndex":1,"PageSize":10,"Source_Id":0,"SStatus":null,"EnquiryDateFrom":null,"EnquiryDateTo":null,"LastFollowedDateFrom":null,"LastFollowedDateTo":null,"NexFollowupDateFrom":null,"NexFollowupDateTo":null,"EnquiryType":null,"SiteVisitStatus":null,"filteredUserId":0,"searchText":null,"projectId":0,"lastSubResponseId":0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 20 Sep 2023 12:10:43 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"LoginType":"M","PageIndex":1,"PageSize":10,"Source_Id":0,"SStatus":null,"EnquiryDateFrom":null,"EnquiryDateTo":null,"LastFollowedDateFrom":null,"LastFollowedDateTo":null,"NexFollowupDateFrom":null,"NexFollowupDateTo":null,"EnquiryType":null,"SiteVisitStatus":null,"filteredUserId":0,"searchText":null,"projectId":0,"lastSubResponseId":0}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

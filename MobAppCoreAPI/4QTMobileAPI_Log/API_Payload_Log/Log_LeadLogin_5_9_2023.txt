@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Sep 2023 12:13:38 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"userName":"akshat","password":"fourqt","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 05 Sep 2023 12:19:21 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"userName":"akshat","password":"fourqt","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

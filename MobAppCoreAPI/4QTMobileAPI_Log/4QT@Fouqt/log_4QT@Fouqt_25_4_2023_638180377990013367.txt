@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- Customer InsertqueryHistory( Token=4QT@Fouqt,Queryid=0,Text=string,Createdby=0,Mailstatus=string,Regid=0)
+############################################
+
+Time: - 25 Apr 2023 04:43:19 PM
+
+Exception occurred from Client - 
+
+Exception - System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getudp_InsertqueryHistory(InsertqueryHistory ObjInsertqueryHistory, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 208
+StackTrace -    at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getudp_InsertqueryHistory(InsertqueryHistory ObjInsertqueryHistory, HttpRequest request) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 208
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

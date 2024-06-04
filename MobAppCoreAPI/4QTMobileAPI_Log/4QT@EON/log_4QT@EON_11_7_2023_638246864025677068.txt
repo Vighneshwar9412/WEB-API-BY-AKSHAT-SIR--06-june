@@ -1,0 +1,8 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 11 Jul 2023 03:33:22 PM
+
+Message from Client - 
+
+MESSAGE:- Source:- Data Source=192.168.147.60,14333;Initial Catalog=Re_JMEOM;User ID=Fourqtcrm;password=B614@#$Sector62;Persist Security Info=True
+
+------------------------------------------MESSAGE END ------------------------------------------

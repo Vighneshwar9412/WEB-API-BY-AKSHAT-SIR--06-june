@@ -1,0 +1,36 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jul 2023 12:18:54 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":"CP","token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jul 2023 12:58:34 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":null,"token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","mobile":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jul 2023 12:59:07 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":null,"token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","mobile":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 Jul 2023 01:02:08 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"commonLoginType":null,"token":"XhnTVlranzYPjbHYJFQcPw==","username":"API_Test","mobile":null}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

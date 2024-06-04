@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetCustomerDuesPaid(Token=4QT@EON,  Registration_Id=221)
+############################################
+
+Time: - 07 Jul 2023 05:09:17 PM
+
+Exception occurred from Client - 
+
+Exception - System.ArgumentException: Column 'TotalInterest' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerDuesPaid(String Token, Int32 Registration_Id) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1487
+StackTrace -    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FourQT.CommonFunctions.Portal.Common.GetCustomerDuesPaid(String Token, Int32 Registration_Id) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1487
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

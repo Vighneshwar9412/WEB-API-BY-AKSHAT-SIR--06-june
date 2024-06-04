@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jul 2023 03:48:45 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"AAAPG7071P","DeviceId":"","FromDevice":1,"Location":"","ipAddress":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jul 2023 03:51:29 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"AAAPG7071P","DeviceId":"","FromDevice":1,"Location":"","ipAddress":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jul 2023 03:59:51 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"type":"C","Token":"ZAiRnpZrnot/s4IOseLqSQ==","username":"AAAPG7071P","password":"AAAPG7071P","DeviceId":"","FromDevice":1,"Location":"","ipAddress":""}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

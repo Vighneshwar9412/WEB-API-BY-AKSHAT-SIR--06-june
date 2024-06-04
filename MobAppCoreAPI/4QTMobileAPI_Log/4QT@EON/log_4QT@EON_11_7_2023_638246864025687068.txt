@@ -1,0 +1,16 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.DAL.DAL.GetLetterDetailCustomer(ConnString=Data Source=192.168.147.60,14333;Initial Catalog=Re_JMEOM;User ID=Fourqtcrm;password=B614@#$Sector62;Persist Security Info=True,Token=4QT@EON)
+############################################
+
+Time: - 11 Jul 2023 03:33:22 PM
+
+Exception occurred from Client - 
+
+Exception - System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'GetContactUsInfo'.
+   at FourQT.DAL.Portal.DAL.GetContactUS(String ConnString, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 1148
+ClientConnectionId:7c81e016-c4c2-47c8-8c37-b270b0171a84
+Error Number:2812,State:62,Class:16
+StackTrace -    at FourQT.DAL.Portal.DAL.GetContactUS(String ConnString, String Token) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 1148
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:04:18 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1081,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"","areaMin":0.0,"areaMax":100000.0,"pageNo":1,"pageSize":10}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:06:26 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1081,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"","areaMin":0.0,"areaMax":100000.0,"pageNo":1,"pageSize":10}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 07 Jun 2023 12:49:06 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"projectId":1081,"towerId":0,"floorId":0,"unitTypeGroupId":0,"unitTypeId":0,"locationId":0,"ownerId":0,"type":"A","unitNo":"","areaMin":0.0,"areaMax":10000.0,"pageNo":1,"pageSize":10}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

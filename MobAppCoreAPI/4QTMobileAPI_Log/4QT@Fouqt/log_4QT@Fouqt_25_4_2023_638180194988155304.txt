@@ -1,0 +1,20 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.GetCustomerLogin(Token=4QT@Fouqt,  XMLDetail=<ROWS><ROW><EMPCODE>string</EMPCODE><ATTENDANCEDATE>04/25/2023 6:05:30 AM</ATTENDANCEDATE><ATTENDANCETIME>string</ATTENDANCETIME><TYPE>string</TYPE><REMARK>string</REMARK></ROW></ROWS>)
+############################################
+
+Time: - 25 Apr 2023 11:38:18 AM
+
+Exception occurred from Client - 
+
+InnerException - System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+Exception - System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at FourQT.DAL.Portal.DAL.InsertAttendanceAndGetDetails(String ConnString, String Token, String XMLDetail) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 1325
+   at FourQT.CommonFunctions.Portal.Common.InsertAttendanceAndGetDetails(String Token, String XMLDetail) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1440
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+StackTrace -    at FourQT.DAL.Portal.DAL.InsertAttendanceAndGetDetails(String ConnString, String Token, String XMLDetail) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 1325
+   at FourQT.CommonFunctions.Portal.Common.InsertAttendanceAndGetDetails(String Token, String XMLDetail) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 1440
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

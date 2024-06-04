@@ -1,0 +1,27 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 20 Sep 2023 12:05:40 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"userName":"Administrator","password":"cRM@6055","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 20 Sep 2023 12:10:21 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"userName":"juhi.tyagi","password":"Odi@1234","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 20 Sep 2023 12:17:19 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"userName":"juhi.tyagi","password":"Odi@1234","deviceType":"string","fcmToken":"string","ipAddress":"string","location":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

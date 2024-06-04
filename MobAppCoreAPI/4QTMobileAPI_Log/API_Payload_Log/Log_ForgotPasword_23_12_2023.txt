@@ -1,0 +1,18 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 23 Dec 2023 03:18:56 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 23 Dec 2023 05:04:07 PM
+
+Message from Client - 127.0.0.1,localhost
+
+MESSAGE:- {"commonLoginType":"C","token":"XhnTVlranzYPjbHYJFQcPw==","username":"AKNPM1673L","mobile":"9650322364"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

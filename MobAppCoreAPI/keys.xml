@@ -1,0 +1,978 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connections>
+  <connection dkey="4QT@M">
+    <Company>4th Quarter Technologies</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Demo;UID=FourqtAPI;PWD=f1101@#GOLFNOIDA</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@Fouqt</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@CRM">
+    <Company>DEMO CRM PROJECT</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@CRM</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@Group1081">
+    <Company>4th Quarter Technologies</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Demo;UID=FourqtAPI;PWD=f1101@#GOLFNOIDA</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@Fouqt</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@Group108">
+    <Company>4th Quarter Technologies</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_GrandthumGST;UID=realeasy;PWD=Fourqt@@4</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_GrandthumGST;UID=realeasy;PWD=Fourqt@@4</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_GrandthumGST;UID=realeasy;PWD=Fourqt@@4</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_GrandthumGST;UID=realeasy;PWD=Fourqt@@4</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>GT@4QT</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@EON">
+    <Company>EON</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_JMEOM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_JMEOM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_JMEOM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_JMEOM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@EON</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@TAT">
+    <Company>TANDTGROUP</Company>
+    <Logo>http://tandtgroup05.remserp.com//images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_TNT;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_TNT;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_TNT;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_TNT;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Re_TNT;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@TAT</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@HGC">
+    <Company>HIGREENS</Company>
+    <Logo>https://higreens09.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_higreens;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_higreens;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_higreens;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_higreens;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Re_higreens;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@HGC</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@BHUTANI">
+    <Company>BHUTANI</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_BhutaniGST;UID=realeasy;PWD=Fourqt@@4</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.40,14333;DATABASE=CP_Bhutani;UID=realeasy;PWD=Fourqt@@4</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_BhutaniGST;UID=realeasy;PWD=Fourqt@@4</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_BhutaniGST;UID=realeasy;PWD=Fourqt@@4</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@BHUTANI</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@ECO">
+    <Company>IDYLLIC</Company>
+    <Logo>https://idyllic01.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_Chand_Idyllic;UID=realeasy;PWD=Fourqt@@4</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_Chand_Idyllic;UID=realeasy;PWD=Fourqt@@4</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_Chand_Idyllic;UID=realeasy;PWD=Fourqt@@4</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.40,14333;DATABASE=Re_Chand_Idyllic;UID=realeasy;PWD=Fourqt@@4</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.40,14333;Initial Catalog=Re_Chand_Idyllic;uid=realeasy;pwd=Fourqt@@4;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@ECO</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@PROSPER">
+    <Company>PROSPER</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_ProsperNoida;UID=broker;PWD=B614@#Noida</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_ProsperNoida;UID=broker;PWD=B614@#Noida</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_ProsperNoida;UID=broker;PWD=B614@#Noida</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_ProsperNoida;UID=broker;PWD=B614@#Noida</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@PROSPER</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SD">
+    <Company>SILVERDOME</Company>
+    <Logo>https://silverdome07.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Silverdome;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Silverdome;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Silverdome;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Silverdome;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SD</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SRS">
+    <Company>SUMIRAMSAI</Company>
+    <Logo>http://sumiramsai11.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_Sumiramsai;UID=broker;PWD=B614@#Noida</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_Sumiramsai;UID=broker;PWD=B614@#Noida</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_Sumiramsai;UID=broker;PWD=B614@#Noida</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.180,14789;DATABASE=Br_Sumiramsai;UID=broker;PWD=B614@#Noida</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SRS</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@LKC">
+    <Company>KALPANACONSTRUCTIONS</Company>
+    <Logo>https://kalpanaconstructions9.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Luk_Kalpana;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Luk_Kalpana;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Luk_Kalpana;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Luk_Kalpana;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@LKC</CustomerPortalKey>
+  </connection>
+   <connection dkey="4QT@IA">
+    <Company>INVESTADVISE</Company>
+    <Logo>http://investadvise07.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_Investadvise;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_Investadvise;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_Investadvise;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_Investadvise;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Lead_Investadvise;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@IA</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@BBK">
+    <Company>BIGBUCKS</Company>
+    <Logo>https://bigbucks06.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_bigbucks;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_bigbucks;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_bigbucks;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_bigbucks;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@BBK</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@XCAP">
+    <Company>XCAPITAL</Company>
+    <Logo>https://xcapital09.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_XCapital;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_XCapital;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_XCapital;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_XCapital;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@XCAP</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@VG">
+    <Company>VASAVIGROUP</Company>
+    <Logo>https://vasavigroup09.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Re_Hydrabad_Vasavigroup;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@VG</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@NSL">
+    <Company>NSLINFRA</Company>
+    <Logo>https://nsl04.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hyd_NSL;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hyd_NSL;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hyd_NSL;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hyd_NSL;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Re_Hyd_NSL;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@NSL</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@TMAN">
+    <Company>TRUEMAN</Company>
+    <Logo>https://trueman05.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Trueman;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Trueman;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Trueman;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Trueman;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@TMAN</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@AB">
+    <Company>AAKRUTHI</Company>
+    <Logo>https://trueman05.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_aakruthi_Bangalore;UID=PreSales;PWD=Ps@4qt@</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_aakruthi_Bangalore;UID=PreSales;PWD=Ps@4qt@</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_aakruthi_Bangalore;UID=PreSales;PWD=Ps@4qt@</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_aakruthi_Bangalore;UID=PreSales;PWD=Ps@4qt@</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.252,13434;Initial Catalog=ERP_DEMO;uid=PreSales;pwd=Ps@4qt@;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@AB</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@7D">
+    <Company>7DIMENSIONSESTATES</Company>
+    <Logo>https://trueman05.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_7dimensionsestates;UID=PreSales;PWD=Ps@4qt@</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_7dimensionsestates;UID=PreSales;PWD=Ps@4qt@</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_7dimensionsestates;UID=PreSales;PWD=Ps@4qt@</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_7dimensionsestates;UID=PreSales;PWD=Ps@4qt@</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.252,13434;Initial Catalog=Br_7dimensionsestates;uid=PreSales;pwd=Ps@4qt@;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@7D</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@LS">
+    <Company>SANSKAAR</Company>
+    <Logo>https://sanskaar12.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Luck_Sanskaar;UID=PreSales;PWD=Ps@4qt@</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Luck_Sanskaar;UID=PreSales;PWD=Ps@4qt@</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Luck_Sanskaar;UID=PreSales;PWD=Ps@4qt@</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Luck_Sanskaar;UID=PreSales;PWD=Ps@4qt@</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.252,13434;Initial Catalog=Br_Luck_Sanskaar;uid=PreSales;pwd=Ps@4qt@;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@LS</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@JC">
+    <Company>JUBLEE</Company>
+    <Logo>http://jublee11.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Jublee_Chand;UID=PreSales;PWD=Ps@4qt@</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Jublee_Chand;UID=PreSales;PWD=Ps@4qt@</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Jublee_Chand;UID=PreSales;PWD=Ps@4qt@</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_Jublee_Chand;UID=PreSales;PWD=Ps@4qt@</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.252,13434;Initial Catalog=Br_Jublee_Chand;uid=PreSales;pwd=Ps@4qt@;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@JC</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@VHT">
+    <Company>VALUEHOMZ</Company>
+    <Logo>https://valuehomz01.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Valuehomz;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Valuehomz;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Valuehomz;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Valuehomz;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@VHT</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@KB">
+    <Company>KRISHNABHUMI</Company>
+    <Logo>https://krishnabhumi03.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_krishnabhumi;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_krishnabhumi;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_krishnabhumi;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_krishnabhumi;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@KB</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@DG">
+    <Company>DILIGENT</Company>
+    <Logo>http://diligent10.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_diligentAntkishVally;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_diligentAntkishVally;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_diligentAntkishVally;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_diligentAntkishVally;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@DG</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SM">
+    <Company>SUBHASHMANGAT</Company>
+    <Logo>https://subhashmangat10.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_chand_subhashmangat;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_chand_subhashmangat;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_chand_subhashmangat;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_chand_subhashmangat;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SM</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@PROPK">
+    <Company>PROPKEYS</Company>
+    <Logo>https://propkeys04.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_PROPKEYS;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_PROPKEYS;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_PROPKEYS;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_PROPKEYS;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@PROPK</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@MODERN">
+    <Company>MODERN</Company>
+    <Logo>http://modernproperties.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.180,14789;DATABASE=Bro_Modern;UID=remsdb;PWD=B614@#NoidaFourqt</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.180,14789;DATABASE=Bro_Modern;UID=remsdb;PWD=B614@#NoidaFourqt</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.180,14789;DATABASE=Bro_Modern;UID=remsdb;PWD=B614@#NoidaFourqt</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.180,14789;DATABASE=Bro_Modern;UID=remsdb;PWD=B614@#NoidaFourqt</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.180,14789;Initial Catalog=Bro_Modern;uid=remsdb;pwd=B614@#NoidaFourqt;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@MODERN</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@NR">
+    <Company>NINEREALTY</Company>
+    <Logo>https://ninerealty08.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_NineRealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_NineRealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_NineRealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_NineRealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@NR</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@ORG">
+    <Company>ORANGEDOOR</Company>
+    <Logo>https://orangedoor04.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Orange;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Orange;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Orange;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Orange;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@ORG</CustomerPortalKey>
+  </connection>
+   <connection dkey="4QT@RAV">
+    <Company>RAVS</Company>
+    <Logo>https://ravs05.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RAMP;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RAMP;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RAMP;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RAMP;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_RAMP;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@RAV</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@RA">
+    <Company>REALTYASSISTANT</Company>
+    <Logo>https://realtyassistant12.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RealtyAssitance_Noidav1;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RealtyAssitance_Noidav1;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RealtyAssitance_Noidav1;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_RealtyAssitance_Noidav1;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_RealtyAssitance_Noidav1;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@RA</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@GSS">
+    <Company>GSS</Company>
+    <Logo>http://gss08.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_GSSMysore;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_GSSMysore;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_GSSMysore;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Lead_GSSMysore;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Lead_GSSMysore;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@GSS</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@GT">
+    <Company>GRANDTHUM</Company>
+    <Logo>https://grandthum07.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Bro_Grandtump;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Bro_Grandtump;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Bro_Grandtump;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Bro_Grandtump;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Bro_Grandtump;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@GT</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@FIN">
+    <Company>FINLACE</Company>
+    <Logo>https://finlace11.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Finalce;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Finalce;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Finalce;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Finalce;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_Finalce;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@FIN</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@AV">
+    <Company>ARAVALI</Company>
+    <Logo>https://aravali09.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Chd_Aravali;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Chd_Aravali;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Chd_Aravali;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Chd_Aravali;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_Chd_Aravali;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@AV</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@KM">
+    <Company>KEYSMULTIPLIER</Company>
+    <Logo>https://keysmultiplier07.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_keysmultiplierGauravji;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_keysmultiplierGauravji;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_keysmultiplierGauravji;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_keysmultiplierGauravji;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_keysmultiplierGauravji;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@KM</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@MUPPA">
+    <Company>MUPPA</Company>
+    <Logo>https://muppa01.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Muppa;UID=SA;PWD=4thQu@t3r@SQL</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Muppa;UID=SA;PWD=4thQu@t3r@SQL</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Muppa;UID=SA;PWD=4thQu@t3r@SQL</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Muppa;UID=SA;PWD=4thQu@t3r@SQL</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.41;Initial Catalog=Re_Hydrabad_Muppa;uid=SA;pwd=4thQu@t3r@SQL;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@MUPPA</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@CN">
+    <Company>NEXTERRA</Company>
+    <Logo>http://nexterra10.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.41;DATABASE=Bro_Chennai_nexterra;UID=broker;PWD=Fourqt@@4</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.41;DATABASE=Bro_Chennai_nexterra;UID=broker;PWD=Fourqt@@4</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.41;DATABASE=Bro_Chennai_nexterra;UID=broker;PWD=Fourqt@@4</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.41;DATABASE=Bro_Chennai_nexterra;UID=broker;PWD=Fourqt@@4</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.41;Initial Catalog=Bro_Chennai_nexterra;uid=broker;pwd=Fourqt@@4;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@CN</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@IX">
+    <Company>INVESTOXPERT</Company>
+    <Logo>https://investoxpert.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.41;DATABASE=BR_Investoxpert;UID=broker;PWD=Fourqt@@4</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.41;DATABASE=BR_Investoxpert;UID=broker;PWD=Fourqt@@4</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.41;DATABASE=BR_Investoxpert;UID=broker;PWD=Fourqt@@4</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.41;DATABASE=BR_Investoxpert;UID=broker;PWD=Fourqt@@4</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.41;Initial Catalog=BR_Investoxpert;uid=broker;pwd=Fourqt@@4;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@IX</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@RAMKY">
+    <Company>RAMKY</Company>
+    <Logo>http://ramky02.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Remky;UID=SA;PWD=4thQu@t3r@SQL</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Remky;UID=SA;PWD=4thQu@t3r@SQL</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Remky;UID=SA;PWD=4thQu@t3r@SQL</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.41;DATABASE=Re_Hydrabad_Remky;UID=SA;PWD=4thQu@t3r@SQL</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.41;Initial Catalog=Re_Hydrabad_Remky;uid=SA;pwd=4thQu@t3r@SQL;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@RAMKY</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@NIRALA">
+    <Company>NIRALAWORLD</Company>
+    <Logo>http://niralaworld.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_NiralaWorld;UID=PreSales;PWD=Ps@4qt@</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_NiralaWorld;UID=PreSales;PWD=Ps@4qt@</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_NiralaWorld;UID=PreSales;PWD=Ps@4qt@</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.252,13434;DATABASE=Br_NiralaWorld;UID=PreSales;PWD=Ps@4qt@</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@NIRALA</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@FM">
+    <Company>FAIRMOUNT</Company>
+    <Logo>https://fairmount07.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Fairmount;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Fairmount;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Fairmount;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Fairmount;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@FM</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@GDHARI">
+    <Company>GIRIDHARI</Company>
+    <Logo>https://giridhari05.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Giridhari;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Giridhari;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Giridhari;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Giridhari;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@GDHARI</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@4S">
+    <Company>4SDEVELOPERS</Company>
+    <Logo>https://4sdevelopers03.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_4SDeveloper;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_4SDeveloper;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_4SDeveloper;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_4SDeveloper;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=Re_4SDeveloper;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@4S</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SLD">
+    <Company>SLDGROUP</Company>
+    <Logo>https://sldgroup03.remserp.com/CRM/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Luck_SLD;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Luck_SLD;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Luck_SLD;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Luck_SLD;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=Re_Luck_SLD;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SLD</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@TMG">
+    <Company>THEMENTORGROUP</Company>
+    <Logo>https://thementorgroup01.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Chand_mentorgroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Chand_mentorgroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Chand_mentorgroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Chand_mentorgroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@TMG</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@ANVT">
+    <Company>ANVITAGROUP</Company>
+    <Logo>https://anvitagroup04.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Anvitagroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Anvitagroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Anvitagroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_Anvitagroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@ANVT</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@HANVT">
+    <Company>high9</Company>
+    <Logo>https://anvitagroup04.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_High9;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_High9;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_High9;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_Hyd_High9;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@HANVT</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@NH">
+    <Company>NEVADAHOUSING</Company>
+    <Logo>https://nevadahousing05.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_LudhianaNevada;UID=rems101;PWD=NOIDA62@#$B614</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_LudhianaNevada;UID=rems101;PWD=NOIDA62@#$B614</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_LudhianaNevada;UID=rems101;PWD=NOIDA62@#$B614</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_LudhianaNevada;UID=rems101;PWD=NOIDA62@#$B614</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=Re_LudhianaNevada;uid=rems101;pwd=NOIDA62@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@NH</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@AC">
+    <Company>ATLANTIS</Company>
+    <Logo>https://atlantis02.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_CHAND_Atlantis;UID=rems101;PWD=NOIDA62@#$B614</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_CHAND_Atlantis;UID=rems101;PWD=NOIDA62@#$B614</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_CHAND_Atlantis;UID=rems101;PWD=NOIDA62@#$B614</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_CHAND_Atlantis;UID=rems101;PWD=NOIDA62@#$B614</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=RE_CHAND_Atlantis;uid=rems101;pwd=NOIDA62@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@AC</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@GAUR">
+    <Company>GAURSONS</Company>
+    <Logo>https://gaursons.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Gaursons;UID=4qtLead;PWD=B614!@#Noida</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Gaursons;UID=4qtLead;PWD=B614!@#Noida</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Gaursons;UID=4qtLead;PWD=B614!@#Noida</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Gaursons;UID=4qtLead;PWD=B614!@#Noida</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=Br_Gaursons;uid=4qtLead;pwd=B614!@#Noida;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@GAUR</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@OJOS">
+    <Company>OJOS</Company>
+    <Logo>https://ojos02.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Ojos_Reach;UID=4qtLead;PWD=B614!@#Noida</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Ojos_Reach;UID=4qtLead;PWD=B614!@#Noida</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Ojos_Reach;UID=4qtLead;PWD=B614!@#Noida</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_Ojos_Reach;UID=4qtLead;PWD=B614!@#Noida</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=Br_Ojos_Reach;uid=4qtLead;pwd=B614!@#Noida;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@OJOS</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@FP">
+    <Company>FRESHPLANET</Company>
+    <Logo>https://freshplanet.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_freshplanet;UID=4qtLead;PWD=B614!@#Noida</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_freshplanet;UID=4qtLead;PWD=B614!@#Noida</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_freshplanet;UID=4qtLead;PWD=B614!@#Noida</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_freshplanet;UID=4qtLead;PWD=B614!@#Noida</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=Br_freshplanet;uid=4qtLead;pwd=B614!@#Noida;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@FP</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@WOM">
+    <Company>WOMEKI</Company>
+    <Logo>https://womeki.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_WomekiGaurav;UID=4qtLead;PWD=B614!@#Noida</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_WomekiGaurav;UID=4qtLead;PWD=B614!@#Noida</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_WomekiGaurav;UID=4qtLead;PWD=B614!@#Noida</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=Br_WomekiGaurav;UID=4qtLead;PWD=B614!@#Noida</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=Br_WomekiGaurav;uid=4qtLead;pwd=B614!@#Noida;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@WOM</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@ROMA">
+    <Company>ROMA</Company>
+    <Logo>https://roma02.remserp.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_Varanasi_ROMA;UID=rems101;PWD=NOIDA62@#$B614</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_Varanasi_ROMA;UID=rems101;PWD=NOIDA62@#$B614</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_Varanasi_ROMA;UID=rems101;PWD=NOIDA62@#$B614</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=RE_Varanasi_ROMA;UID=rems101;PWD=NOIDA62@#$B614</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=RE_Varanasi_ROMA;uid=rems101;pwd=NOIDA62@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@ROMA</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@JCH">
+    <Company>JAINCONSTRUCTIONS</Company>
+    <Logo>https://jainconstructions12.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_Hyd_JainGroupBrother;UID=rems101;PWD=NOIDA62@#$B614</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_Hyd_JainGroupBrother;UID=rems101;PWD=NOIDA62@#$B614</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_Hyd_JainGroupBrother;UID=rems101;PWD=NOIDA62@#$B614</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_Hyd_JainGroupBrother;UID=rems101;PWD=NOIDA62@#$B614</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=Re_Hyd_JainGroupBrother;uid=rems101;pwd=NOIDA62@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@JCH</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@VISHALP">
+    <Company>VISHAL PROJECT</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_VishalProjectsHyd;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_VishalProjectsHyd;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_VishalProjectsHyd;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_VishalProjectsHyd;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@VISHALP</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@FOURP">
+    <Company>FOURPILLARS</Company>
+    <Logo>https://fourpillarsrealty01.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Fourpillarsrealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Fourpillarsrealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Fourpillarsrealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Fourpillarsrealty;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_Fourpillarsrealty;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@FOURP</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@DUP">
+    <Company>DOLLEDUP</Company>
+    <Logo>https://dolledup03.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_dolledup;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_dolledup;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_dolledup;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_dolledup;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_dolledup;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@DUP</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@CONS">
+    <Company>CONSCIENT</Company>
+    <Logo>https://conscient08.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Conscient;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Conscient;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Conscient;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_Conscient;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_Conscient;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@CONS</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@TCA">
+    <Company>THECONSULATEAPARTMENTS</Company>
+    <Logo>https://theconsulateapartments04.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_theconsulateapartments;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_theconsulateapartments;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_theconsulateapartments;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_theconsulateapartments;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_theconsulateapartments;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@TCA</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@MG">
+    <Company>MAGICGHAR</Company>
+    <Logo>https://magicghar05.4erealty.com/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_MagicGhar;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_MagicGhar;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_MagicGhar;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Br_MagicGhar;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Br_MagicGhar;uid=Fourqtlead;pwd=B614@#Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@MG</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@BM">
+    <Company>Bullmen</Company>
+    <Logo>https://bullmen11.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.50,14333;DATABASE=Br_Bullman;UID=Fourqtlead;PWD=B614@#Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.50,14333;DATABASE=Br_Bullman;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.50,14333;DATABASE=Br_Bullman;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.50,14333;DATABASE=Br_Bullman;UID=Fourqtlead;PWD=B614@#Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.50,14333;Initial Catalog=Br_Bullman;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@BM</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@DSR">
+    <Company>DSR</Company>
+    <Logo>https://dsr02.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Bangalore_Dsrinfra;UID=rems;PWD=fourqt@@4qt</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Bangalore_Dsrinfra;UID=rems;PWD=fourqt@@4qt</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Bangalore_Dsrinfra;UID=rems;PWD=fourqt@@4qt</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Bangalore_Dsrinfra;UID=rems;PWD=fourqt@@4qt</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.50,14333;Initial Catalog=Re_Bangalore_Dsrinfra;uid=rems;pwd=fourqt@@4qt;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@DSR</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SH">
+    <Company>SVADHA</Company>
+    <Logo>https://svadha02.realboost.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Hyd_Svadha;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Hyd_Svadha;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Hyd_Svadha;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.50,14333;DATABASE=Re_Hyd_Svadha;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.50,14333;Initial Catalog=Re_Hyd_Svadha;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SH</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@BST">
+    <Company>4th Quarter Technologies</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>server=192.168.147.100,14367;database=Re_BST;uid=Fourqtcrm;pwd=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>server=192.168.147.100,14367;database=Re_BST;uid=Fourqtcrm;pwd=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@Fouqt</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@HR">
+    <Company>4th Quarter Technologies</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>server=192.168.147.101,29421;database=ERP_Luck_KSMB;uid=ERP101;pwd=B614@#$NOIDA62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>server=192.168.147.100,14367;database=Re_BST;uid=Fourqtcrm;pwd=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Demo_CRM;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=ERP_Luck_KSMB;uid=ERP101;pwd=B614@#$NOIDA62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@Fouqt</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@HeadHR">
+    <Company>4th Quarter Technologies</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>server=192.168.147.50,14333;database=4qt_Hr2024;uid=ERP;pwd=fourqt@@@</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.50,14333;DATABASE=4qt_Hr2024;UID=ERP;PWD=fourqt@@@</connectionStringPortal>
+    <connectionStringEmployee>server=192.168.147.50,14333;database=4qt_Hr2024;uid=ERP;pwd=fourqt@@@</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.50,14333;DATABASE=4qt_Hr2024;UID=ERP;PWD=fourqt@@@</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.50,14333;Initial Catalog=4qt_Hr2024;uid=ERP;pwd=fourqt@@@;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@Fouqt</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SAM">
+    <Company>Palm Olympia</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_PalmOlympia;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.100,14367;DATABASE=CP_SAMINDIA;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_PalmOlympia;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.100,14367;DATABASE=Re_PalmOlympia;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.100,14367;Initial Catalog=ERP_DEMO;uid=realboost;pwd=Fourqt@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SAM</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SAMR">
+    <Company>Samridhi Realty</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.180,14789;DATABASE=Re_Samridhi;UID=remsdb;PWD=B614@#NoidaFourqt</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.180,14789;DATABASE=Re_Samridhi;UID=remsdb;PWD=B614@#NoidaFourqt</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.180,14789;DATABASE=Re_Samridhi;UID=remsdb;PWD=B614@#NoidaFourqt</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.180,14789;DATABASE=Re_Samridhi;UID=remsdb;PWD=B614@#NoidaFourqt</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.180,14789;Initial Catalog=Re_Samridhi;uid=remsdb;pwd=B614@#NoidaFourqt;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SAMR</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@SAMD">
+    <Company>Samridhi Daksh</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_SamridhiDakshAvenue;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_SamridhiDakshAvenue;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_SamridhiDakshAvenue;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_SamridhiDakshAvenue;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Re_SamridhiDakshAvenue;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@SAMD</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@EXOTICA">
+    <Company>Samridhi Daksh</Company>
+    <Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+    <connectionString>server=192.168.147.101,29421;database=Re_Exotica2024;uid=rems101;pwd=NOIDA62@#$B614</connectionString>
+    <connectionStringPortal>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_Exotica2024;UID=rems101;PWD=NOIDA62@#$B614</connectionStringPortal>
+    <connectionStringEmployee>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_Exotica2024;UID=rems101;PWD=NOIDA62@#$B614</connectionStringEmployee>
+    <connectionStringChannelPartner>DATA SOURCE=192.168.147.101,29421;DATABASE=Re_Exotica2024;UID=rems101;PWD=NOIDA62@#$B614</connectionStringChannelPartner>
+    <connectionStringHR>Data Source=192.168.147.101,29421;Initial Catalog=Re_Exotica2024;uid=rems101;pwd=NOIDA62@#$B614;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+    <Responses></Responses>
+    <Validity>7</Validity>
+    <Description></Description>
+    <CustomerPortalKey>4QT@EXOTICA</CustomerPortalKey>
+  </connection>
+  <connection dkey="4QT@VASAVI">
+	<Company>Vasavi</Company>
+	<Logo>https://crm.realeasy.in/images/4qt-logo.png</Logo>
+	<connectionString>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionString>
+	<connectionStringPortal>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringPortal>
+	<connectionStringEmployee>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringEmployee>
+	<connectionStringChannelPartner>DATA SOURCE=192.168.147.60,14333;DATABASE=Re_Hydrabad_Vasavigroup;UID=Fourqtcrm;PWD=B614@#$Sector62</connectionStringChannelPartner>
+	<connectionStringHR>Data Source=192.168.147.60,14333;Initial Catalog=Re_Hydrabad_Vasavigroup;uid=Fourqtcrm;pwd=B614@#$Sector62;connection timeout=2000;Max Pool Size=500</connectionStringHR>
+	<Responses></Responses>
+	<Validity>7</Validity>
+	<Description></Description>
+	<CustomerPortalKey>4QT@VASAVI</CustomerPortalKey>
+</connection>
+</connections>

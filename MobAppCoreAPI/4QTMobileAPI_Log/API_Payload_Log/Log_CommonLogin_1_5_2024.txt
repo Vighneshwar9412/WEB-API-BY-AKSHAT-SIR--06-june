@@ -1,0 +1,45 @@
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 May 2024 11:07:15 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"C","Token":"PO6e30oeUa/pzAc4j6T9bY9dwPc+Wik1+efWXtlH2Ls=","username":"AAACU9577F","password":"AAACU9577F","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 May 2024 11:41:54 AM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"CP","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"Bullmen.T","password":"fourqt@@4qt","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 May 2024 05:25:57 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"abhijeet","password":"7678144609","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 May 2024 05:26:26 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"Anmol.M","password":"fourqt@@am","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+
+------------------------------------------MESSAGE BEGIN ------------------------------------------
+Time: - 01 May 2024 05:32:29 PM
+
+Message from Client - ::1,localhost
+
+MESSAGE:- {"type":"E","Token":"uzXW4LXbNYGUvhPTePVSiKysMNcgbJTa2iLbcEWi++8=","username":"Anmol.M","password":"fourqt@@am","DeviceId":"string","FromDevice":0,"Location":"string","ipAddress":"string"}
+
+------------------------------------------MESSAGE END ------------------------------------------
+

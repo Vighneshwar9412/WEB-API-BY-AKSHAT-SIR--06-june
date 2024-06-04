@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- User ValidateKey( Token=4QT@M,  UserID=)
+############################################
+
+Time: - 20 Apr 2023 10:58:52 AM
+
+Exception occurred from Client - 
+
+Exception - System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at MobAppCoreAPI.Repository.Portal.LoginRepositoryPortal_P2.validateKey(String mKey) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\LoginRepositoryPortal_P2.cs:line 28
+StackTrace -    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at MobAppCoreAPI.Repository.Portal.LoginRepositoryPortal_P2.validateKey(String mKey) in D:\Akshat\All\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\LoginRepositoryPortal_P2.cs:line 28
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

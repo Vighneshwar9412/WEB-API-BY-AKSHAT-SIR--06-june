@@ -1,0 +1,18 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:-  GetRaisedQueryDetails( Token=4QT@SAMR,RegistrationId=0)
+############################################
+
+Time: - 01 May 2024 11:11:49 AM
+
+Exception occurred from Client - 
+
+Exception - System.ArgumentException: Column 'Resgistration_No' does not belong to table Table1.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getRaisedQueryDetails(QueryDetailsRequest objRequest, HttpRequest request) in D:\Akshat\4QTDeveloper\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 1576
+StackTrace -    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at MobAppCoreAPI.Repository.Portal.CustomerRepository_P2.getRaisedQueryDetails(QueryDetailsRequest objRequest, HttpRequest request) in D:\Akshat\4QTDeveloper\MobAppCoreAPI_6\MobAppCoreAPI\Repository\Portal_P2\CustomerRepository_P2.cs:line 1576
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------

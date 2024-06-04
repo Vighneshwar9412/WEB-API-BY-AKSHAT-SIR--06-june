@@ -1,0 +1,32 @@
+------------------------------------------ERROR EXCEPTION BEGIN ------------------------------------------
+############################################
+SUBJECT:- FourQT.Common.Common.CheckTokenCustomerLogin(Token=4QT@Fouqt)
+############################################
+
+Time: - 06 Jan 2024 11:34:19 AM
+
+Exception occurred from Client - 
+
+Exception - System.InvalidOperationException: BeginExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(Boolean async, String method)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.BeginExecuteReader(AsyncCallback callback, Object stateObject, CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.<>c__DisplayClass130_0.<ExecuteReaderAsync>b__1(CommandBehavior commandBehavior, AsyncCallback callback, Object stateObject)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl[TArg1](Func`4 beginMethod, Func`2 endFunction, Action`1 endAction, TArg1 arg1, Object state, TaskCreationOptions creationOptions)
+   at System.Threading.Tasks.TaskFactory`1.FromAsync[TArg1](Func`4 beginMethod, Func`2 endMethod, TArg1 arg1, Object state)
+   at System.Data.SqlClient.SqlCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at FourQT.DAL.Portal.DAL.CheckToken(String Token, String Type) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 29
+   at FourQT.CommonFunctions.Portal.Common.CheckTokenCustomerLogin(String Token, String DBName) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 123
+StackTrace -    at System.Data.SqlClient.SqlCommand.ValidateCommand(Boolean async, String method)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.BeginExecuteReader(AsyncCallback callback, Object stateObject, CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.<>c__DisplayClass130_0.<ExecuteReaderAsync>b__1(CommandBehavior commandBehavior, AsyncCallback callback, Object stateObject)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl[TArg1](Func`4 beginMethod, Func`2 endFunction, Action`1 endAction, TArg1 arg1, Object state, TaskCreationOptions creationOptions)
+   at System.Threading.Tasks.TaskFactory`1.FromAsync[TArg1](Func`4 beginMethod, Func`2 endMethod, TArg1 arg1, Object state)
+   at System.Data.SqlClient.SqlCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at FourQT.DAL.Portal.DAL.CheckToken(String Token, String Type) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\DAL.cs:line 29
+   at FourQT.CommonFunctions.Portal.Common.CheckTokenCustomerLogin(String Token, String DBName) in D:\Akshat\All\MobAppCoreAPI_6\FourQT.DAL\Portal\Common.cs:line 123
+
+------------------------------------------ERROR EXCEPTION END ------------------------------------------
